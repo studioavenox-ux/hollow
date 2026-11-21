@@ -1,0 +1,24 @@
+{
+  "objectives": [
+    {
+      "id": "vs_arrive",
+      "title": "Return to the village",
+      "description": "Follow the mountain road into the village and reach the post office."
+    },
+    {
+      "id": "vs_meet_gopinath",
+      "title": "Speak to Gopinath Sahu at the post office",
+      "description": "Gopinath has news of Prakash and a package left for you."
+    },
+    {
+      "id": "vs_inspect_package",
+      "title": "Inspect Prakash's package",
+      "description": "Examine the photograph and message inside the package."
+    },
+    {
+      "id": "vs_first_lead",
+      "title": "Follow the first lead",
+      "description": "[PROVISIONAL — destination pending approval (Story Register S-02).] Follow the lead from Prakash's package to the first investigation location."
+    }
+  ]
+}
